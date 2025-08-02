@@ -1,0 +1,16 @@
+{
+  "name": "mev-contract-deploy",
+  "version": "1.0.0",
+  "description": "Script to deploy and manage MEV contract",
+  "main": "deploy.js",
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
